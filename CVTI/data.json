@@ -1,0 +1,131 @@
+[
+
+    { 
+        "name":"Joao",
+        "surname":"Paulo",
+        "age": "23",
+        "cpf": "054.449.000-25",
+        "course": "Web Design"
+    },
+    
+    { 
+        "name":"Patrício",
+        "surname":"Paulista",
+        "age":"18",
+        "cpf": "045.247.030-71",
+        "course": "Chemistry Enginnering"
+    },
+
+    { 
+        "name":"Rodrigo",
+        "surname":"Martinelli",
+        "age":"25",
+        "cpf":"285.415.590-41",
+        "course":"Computer Science"
+    },
+
+    { 
+        "name":"Lucas",
+        "surname":"Gomes",
+        "age":"20",
+        "cpf":"206.187.649-18",
+        "course":"Data Science"
+    },
+
+    { 
+        "name":"Paula",
+        "surname":"Barone",
+        "age":"24",
+        "cpf":"175.006.541-22",
+        "course":"Computer Science"
+    },
+
+    { 
+        "name":"Luiza",
+        "surname":"Mel",
+        "age":"17",
+        "cpf":"007.654.229-01",
+        "course":"Web Design"
+    },
+
+    { 
+        "name":"Luana",
+        "surname":"Costa",
+        "age":"29",
+        "cpf":"867.493.778-92",
+        "course":"Excel"
+    },
+
+    { 
+        "name":"Leonardo",
+        "surname":"Soares",
+        "age":"21",
+        "cpf":"177.209.823-64",
+        "course":"Data Science"
+    },
+
+    { 
+        "name":"Felipe",
+        "surname":"Miranda",
+        "age":"23",
+        "cpf":"365.098.223-72",
+        "course":"Excel"
+    },
+
+    { 
+        "name":"Beatriz",
+        "surname":"Franco",
+        "age":"22",
+        "cpf":"142.907.813-44",
+        "course":"Web Design"
+    },
+
+    { 
+        "name":"Pedro",
+        "surname":"Antunnes",
+        "age":"18",
+        "cpf":"115.306.255-27",
+        "course":"Math"
+    },
+
+    { 
+        "name":"Ingrid",
+        "surname":"Lisandra",
+        "age":"24",
+        "cpf":"108.255.107-90",
+        "course":"Computer Science"
+    },
+
+    { 
+        "name":"Sandro",
+        "surname":"Cassanova",
+        "age":"29",
+        "cpf":"123.678.541-25",
+        "course":"Math"
+    },
+
+    { 
+        "name":"Jin",
+        "surname":"Park",
+        "age":"18",
+        "cpf":"598.123.456-01",
+        "course":"Data Science"
+    },
+
+    { 
+        "name":"Ivar",
+        "surname":"Ragnarsson",
+        "age":"25",
+        "cpf":"333.508.613-06",
+        "course":"Chemistry Enginnering"
+    },
+
+    { 
+        "name":"Linda",
+        "surname":"Harley",
+        "age":"20",
+        "cpf":"654.182.091-87",
+        "course":"Math"
+    }
+
+]
